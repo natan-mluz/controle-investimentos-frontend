@@ -22,7 +22,6 @@ function InvestmentList({ investments, onEdit, onDelete }) {
 
     return (
         <div className="investment-list-container">
-            <h2>Meus Investimentos</h2>
             <table className="investment-table">
                 <thead>
                     <tr>
