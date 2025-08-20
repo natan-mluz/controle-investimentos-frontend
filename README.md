@@ -1,4 +1,4 @@
-# Controle de Investimentos - Frontend 📈
+# Controle de Investimentos - Frontend
 
 ## Sobre o Projeto
 Uma interface de usuário simples e intuitiva para gerenciar investimentos. Este projeto foi desenvolvido como parte de um teste prático e consome uma API REST para realizar operações de CRUD (Criar, Ler, Atualizar, Deletar) em registros de investimentos.
